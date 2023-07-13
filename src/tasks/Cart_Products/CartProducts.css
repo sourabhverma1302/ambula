@@ -1,0 +1,8 @@
+.cartproducts {
+    width: 70%;
+    display: flex;
+    margin: auto;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
